@@ -1,6 +1,6 @@
 #忽略css文件
 index.css
 #忽略test文件夹
-test/
+test
 #忽略2.txt
-/2.txt
+2.txt
